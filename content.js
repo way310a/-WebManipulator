@@ -1,6 +1,6 @@
 (function () {
     'use strict';
-
+   //전체 스크립트는 수정가능
 console.log("WebManipulator Extension is running!");
 
     // 기존 CSP 정책 제거
